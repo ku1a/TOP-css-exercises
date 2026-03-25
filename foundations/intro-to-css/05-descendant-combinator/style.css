@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+
+div p {
+    background-color: rgb(255, 255, 0);
+    /* If you ask me, HSL is too complicated to think about */
+    color: hsl(0, 100%, 60%); 
+    font-size: 24px;
+}
