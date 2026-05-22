@@ -1,0 +1,25 @@
+#flex-container {
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    width: 300px;
+}
+
+#flex-item1 {
+    border: 1px solid red;
+    flex-shrink: 1;
+    width: 200px;
+}
+#flex-item2 {
+    border: 1px solid red;
+    flex-shrink: 1;
+    width: 200px;
+}
+#flex-item3 {
+    border: 1px solid red;
+    flex-shrink: 1;
+    width: 200px;
+}
+
+/* align items and align content are two different things
+align content is for spacing, align items is for poisitioning flex items in a container */
